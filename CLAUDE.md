@@ -4,14 +4,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 # Mac Mini Setup Guide
 
-A GitHub Pages site for the family — practical how-tos for the Mac Mini.
+A GitHub Pages site for the team — practical how-tos for the Mac Mini.
 
 **Live site:** https://darkwing3.github.io/mac-mini-setup/
 **Repo:** https://github.com/DarkWing3/mac-mini-setup
 
 ## Project Goal
 
-Create easy-to-read guides the whole family can reference anytime. Topics include:
+Create easy-to-read guides the whole team can reference anytime. Topics include:
 
 - Keyboard shortcuts
 - Mini Kubernetes (k8s) for development
@@ -49,7 +49,7 @@ make clean     # remove build artifacts
 
 ## Guidelines
 
-- Write for non-developers (any non-technical family member should be able to follow along)
+- Write for non-developers (any non-technical team member should be able to follow along)
 - Keep pages focused and scannable — use tables and code blocks
 - Each page links back to index.md
 - Use Jekyll front matter (`layout: default`, `title: ...`) on every page
