@@ -5,7 +5,7 @@ title: Mac Mini Setup Guide
 
 # Mac Mini Setup Guide
 
-A practical reference for David & family — shortcuts, dev tools, and tips for getting the most out of the Mac Mini.
+A practical reference for the family — shortcuts, dev tools, and tips for getting the most out of the Mac Mini.
 
 ## Topics
 

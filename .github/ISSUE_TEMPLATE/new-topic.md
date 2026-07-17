@@ -7,7 +7,7 @@ labels: new-topic
 
 ## Why it's needed
 
-<!-- Why would David & family want this documented? What problem does not having it cause? -->
+<!-- Why would the family want this documented? What problem does not having it cause? -->
 
 ## Topic
 
