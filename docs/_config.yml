@@ -1,0 +1,8 @@
+title: Mac Mini Setup Guide
+description: Shortcuts, dev tools, and tips for the Mac Mini
+theme: minima
+url: "https://darkwing3.github.io"
+baseurl: "/mac-mini-setup"
+
+plugins:
+  - jekyll-relative-links
