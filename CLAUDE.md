@@ -54,3 +54,4 @@ make clean     # remove build artifacts
 - Each page links back to index.md
 - Use Jekyll front matter (`layout: default`, `title: ...`) on every page
 - The `jekyll-relative-links` plugin is enabled, so internal links point directly at the `.md` file (e.g. `[Shortcuts](shortcuts.md)`), not `.html`
+- Lead with **why**, not what: commit messages, PR descriptions, and issues should explain why the change/issue matters before describing what it does — see `.github/pull_request_template.md` and `.github/ISSUE_TEMPLATE/`

@@ -1,6 +1,10 @@
-## Summary
+## Why
 
-<!-- What does this PR change and why? -->
+<!-- Why is this change necessary? What problem does it solve, or what would go wrong without it? -->
+
+## What changed
+
+<!-- Brief description, only if it's not obvious from the diff -->
 
 ## Test plan
 
