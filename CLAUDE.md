@@ -32,7 +32,20 @@ docs/
   software-tips.md       # Homebrew, terminal, dev tools
 ```
 
-No local build step or Gemfile — GitHub Pages builds it on push.
+GitHub Pages builds and deploys automatically on push via `.github/workflows/pages.yml` — no manual deploy step needed. `docs/Gemfile` exists solely for local preview (see below).
+
+## Local preview
+
+Requires Ruby >= 3.0 (macOS's system Ruby is too old). Install via `brew install ruby`, then use the root `Makefile`:
+
+```bash
+make install   # bundle install into docs/vendor/bundle
+make serve     # run the local server at http://127.0.0.1:4000/mac-mini-setup/
+make build     # build the static site into docs/_site
+make clean     # remove build artifacts
+```
+
+`make serve` auto-regenerates on file changes. The Makefile handles the Homebrew-Ruby-on-PATH gotcha internally, so no manual `export PATH` is needed.
 
 ## Guidelines
 
