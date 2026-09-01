@@ -1,20 +1,21 @@
 ---
-name: Content issue
-about: Something is wrong, outdated, or broken on the site (typo, broken link, stale command)
+name: 문서 오류/개선 요청
+about: 웹사이트 내용 중 잘못된 정보, 오탈자, 깨진 링크, 최신화가 필요한 명령어가 있는 경우 보고해주세요
 title: ""
 labels: content
 ---
 
-## Why this must be fixed
+## 수정이 필요한 이유 (Why)
 
-<!-- What happens to someone following this page if it's left as-is? e.g. "the install command fails" -->
+<!-- 이 내용을 그대로 두었을 때 문서를 읽는 팀원에게 어떤 문제가 발생하나요? (예: "설치 명령어가 실패함") -->
 
-## Page
+## 대상 페이지
 
-<!-- Which page? e.g. shortcuts.md, k8s-setup.md -->
+<!-- 어떤 페이지인가요? (예: shortcuts.md, k8s-setup.md) -->
 
-## What's wrong
+## 문제 내용
 
-<!-- Describe the issue -->
+<!-- 문제 상황을 설명해주세요 -->
 
-## Suggested fix (optional)
+## 제안하는 수정안 (선택 사항)
+

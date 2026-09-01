@@ -1,57 +1,57 @@
 ---
 layout: default
-title: Mac Shortcuts
+title: Mac 단축키 모음
 ---
 
-# Mac Shortcuts
+# Mac 단축키 모음
 
-[← Home](index.md)
+[← 홈으로](index.md)
 
-## System
+## 시스템 단축키
 
-| Shortcut | Action |
-|----------|--------|
-| `⌘ Space` | Spotlight Search |
-| `⌘ Tab` | Switch apps |
-| `⌘ \`` | Switch windows within same app |
-| `⌘ Q` | Quit app |
-| `⌘ W` | Close window |
-| `⌘ H` | Hide window |
-| `⌘ M` | Minimize to Dock |
-| `⌃ ⌘ Q` | Lock screen |
-| `⌘ ⇧ 3` | Screenshot (full screen) |
-| `⌘ ⇧ 4` | Screenshot (selection) |
-| `⌘ ⇧ 5` | Screenshot / screen record menu |
+| 단축키 | 동작 |
+|--------|------|
+| `⌘ Space` | Spotlight 검색 |
+| `⌘ Tab` | 실행 중인 앱 간 전환 |
+| `⌘ \` | 같은 앱 내 다른 창으로 전환 |
+| `⌘ Q` | 현재 앱 완전히 종료 |
+| `⌘ W` | 현재 창 또는 탭 닫기 |
+| `⌘ H` | 현재 앱 창 숨기기 |
+| `⌘ M` | 현재 창 Dock으로 최소화 |
+| `⌃ ⌘ Q` | 화면 잠금 |
+| `⌘ ⇧ 3` | 전체 화면 캡처 |
+| `⌘ ⇧ 4` | 선택 영역 캡처 |
+| `⌘ ⇧ 5` | 화면 캡처 및 화면 기록 도구 열기 |
 
-## Finder
+## Finder 단축키
 
-| Shortcut | Action |
-|----------|--------|
-| `⌘ N` | New Finder window |
-| `⌘ ⇧ N` | New folder |
-| `⌘ Delete` | Move to Trash |
-| `⌘ ⇧ Delete` | Empty Trash |
-| `⌘ I` | Get Info |
-| `Space` | Quick Look preview |
-| `⌘ ⇧ .` | Show/hide hidden files |
+| 단축키 | 동작 |
+|--------|------|
+| `⌘ N` | 새 Finder 창 열기 |
+| `⌘ ⇧ N` | 새 폴더 생성 |
+| `⌘ Delete` | 선택 항목 휴지통으로 이동 |
+| `⌘ ⇧ Delete` | 휴지통 비우기 |
+| `⌘ I` | 파일/폴더 정보 가져오기 |
+| `Space` | 훑어보기 (Quick Look 미리보기) |
+| `⌘ ⇧ .` | 숨김 파일 표시/숨김 토글 |
 
-## Terminal
+## 터미널 단축키
 
-| Shortcut | Action |
-|----------|--------|
-| `⌃ C` | Kill current process |
-| `⌃ L` | Clear screen |
-| `⌃ A` | Move to beginning of line |
-| `⌃ E` | Move to end of line |
-| `⌃ R` | Search command history |
+| 단축키 | 동작 |
+|--------|------|
+| `⌃ C` | 현재 실행 중인 프로세스 강제 종료 |
+| `⌃ L` | 화면 지우기 (Clear) |
+| `⌃ A` | 커서를 줄의 맨 앞으로 이동 |
+| `⌃ E` | 커서를 줄의 맨 뒤로 이동 |
+| `⌃ R` | 이전 명령어 히스토리 역방향 검색 |
 
-## Text Editing
+## 텍스트 편집 단축키
 
-| Shortcut | Action |
-|----------|--------|
-| `⌘ A` | Select all |
-| `⌘ Z` | Undo |
-| `⌘ ⇧ Z` | Redo |
-| `⌥ →` / `⌥ ←` | Move word by word |
-| `⌘ →` / `⌘ ←` | Move to end/start of line |
-| `fn Delete` | Forward delete |
+| 단축키 | 동작 |
+|--------|------|
+| `⌘ A` | 전체 텍스트 선택 |
+| `⌘ Z` | 실행 취소 (Undo) |
+| `⌘ ⇧ Z` | 다시 실행 (Redo) |
+| `⌥ →` / `⌥ ←` | 단어 단위로 커서 이동 |
+| `⌘ →` / `⌘ ←` | 줄의 맨 뒤/맨 앞으로 커서 이동 |
+| `fn Delete` | 커서 뒤의 글자 삭제 (Forward Delete) |

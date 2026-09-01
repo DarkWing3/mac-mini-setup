@@ -2,3 +2,5 @@ docs/_site/
 docs/.jekyll-cache/
 docs/.bundle/
 docs/vendor/
+.DS_Store
+*.code-workspace

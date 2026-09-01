@@ -1,12 +1,12 @@
-## Why this matters
+## 변경이 필요한 이유 (Why)
 
-<!-- Why is this change necessary? What problem does it solve, or what would go wrong without it? -->
+<!-- 이 변경이 왜 필요한가요? 어떤 문제를 해결하며, 변경하지 않았을 때 어떤 문제가 발생하나요? -->
 
-## What has changed
+## 변경 내용 (What)
 
-<!-- Brief description, only if it's not obvious from the diff -->
+<!-- diff에서 바로 파악하기 어려운 주요 변경 사항을 간략히 설명해주세요 -->
 
-## Test plan
+## 테스트 계획 (Test plan)
 
-<!-- How did you verify this works? e.g. `make serve` and checked the page locally -->
+<!-- 변경 사항이 정상 작동하는지 어떻게 검증했나요? (예: `make serve` 실행 후 로컬 페이지 확인) -->
 - [ ]
