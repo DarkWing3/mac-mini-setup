@@ -1,14 +1,15 @@
 ---
-name: New topic
-about: Suggest a new topic page for the guide
+name: 새로운 주제 제안
+about: 가이드 사이트에 추가할 새로운 주제 페이지를 제안합니다
 title: ""
 labels: new-topic
 ---
 
-## Why it's needed
+## 필요한 이유 (Why)
 
-<!-- Why would the team want this documented? What problem does not having it cause? -->
+<!-- 팀에 이 문서가 왜 필요한가요? 문서가 없을 때 어떤 문제가 발생하나요? -->
 
-## Topic
+## 제안하는 주제 (Topic)
 
-<!-- What should the new page cover? -->
+<!-- 새로운 페이지에서 어떤 내용을 다루어야 하나요? -->
+
